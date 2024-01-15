@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: noelldev/ci_py/.github/workflows/python-app.yml@master
+    uses: noelldev/ci_py/.github/workflows/python-app.yml@main
     permissions:
       contents: read
       
